@@ -1,1 +1,1 @@
-# cosy-house
+# cozy-house
